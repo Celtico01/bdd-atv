@@ -8,7 +8,7 @@ Este projeto simula funcionalidades de um jogo estilo Stardew Valley, com foco e
 
 ## Executar testes BDD
 ```bash
-pip install behave
+pip install -r requirements.txt
 behave
 ```
 
